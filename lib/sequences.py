@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 def print_fibonacci(length):
-    '''prints fibonacci sequence of given length'''
     if length == 0:
         print('[]')
     elif length == 1:
